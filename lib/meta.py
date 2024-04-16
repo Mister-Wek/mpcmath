@@ -18,3 +18,6 @@ github = 'Mister-Wek/mpcmath'
 
 # Префикс команд библиотеки
 prefix = 'math.'
+
+# Версия MPCode
+mpcode_version = '0.0.1'
