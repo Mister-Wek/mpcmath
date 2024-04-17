@@ -1,6 +1,6 @@
 prefix = 'math.'
 
-def math_ex(ex):
+def mpcmath_ex(ex):
     
     i = 0
     
@@ -19,4 +19,4 @@ def math_ex(ex):
         i += 1
     return str(result)
     
-funcs = {'ex':math_ex}
+funcs = {'ex':mpcmath_ex}
